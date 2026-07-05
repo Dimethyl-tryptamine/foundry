@@ -7,8 +7,12 @@ The goal of this project is to explore and demonstrate modern frontend engineeri
 
 ## Live Demo Link:
 [Visit Site](foundrywastaken.netlify.app)
+
 ## Features:
 - Responsive mobile-first design
+- Next.js seach params 
+- live query filtering 
+- router (next.js)
 
 ## Technologies Used:
 - Next.js
@@ -60,3 +64,6 @@ npm run start
 ```
 
 # Challenges & Lessons Learned:
+Implementation of search params for live onChange filtering
+Architectural system planning / Blueprinting 
+Lifting state
